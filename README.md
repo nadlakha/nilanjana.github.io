@@ -1,3 +1,4 @@
+![GitHub Logo](/images/logo.png)
 ## Data Science Portfolio
 
 This is a repositiory of projects that I have worked on for self learning.  
