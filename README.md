@@ -1,4 +1,4 @@
-![GitHub Logo](/images/logo.png)
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fbb9e_starwars&psig=AOvVaw2gixZnqyOZY723wjmttLeS&ust=1590019218105000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKif5oSRwekCFQAAAAAdAAAAABAE)
 ## Data Science Portfolio
 
 This is a repositiory of projects that I have worked on for self learning.  
