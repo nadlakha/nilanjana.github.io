@@ -1,4 +1,3 @@
-![](https://github.com/nadlakha/nilanjana.github.io/blob/master/bb8.jpg)
 ## Data Science Portfolio
 
 This is a repositiory of projects that I have worked on for self learning.  
